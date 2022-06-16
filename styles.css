@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.main-div {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    display: flex;
+}
+
+.first-half {
+    height: 100%;
+    width: 28vw;
+    background-color: white;
+    text-align: left;
+    padding-left: 40px;
+    padding-top: 50px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+
+    
+}
+.second-half {
+    height: 100%;
+    width: 72vw;
+    background-color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.loginmsg{
+    color: 14C38E;
+    font-weight: lighter;
+}
+button{
+    width: 290px;
+    height: 45px;
+    border-radius: 5px;
+    border: 1px solid;
+    margin: 4px auto;
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    background-color: white;
+    font-weight: bold;
+}
+#email {
+    width: 290px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid;
+    margin: 4px auto;
+    display:
+}
+span {
+    font-size: 15px;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif
+
+
+}
+ h4 {
+ 
+ padding-left: 140px;
+ font-weight: lighter;
+} 
+a{
+    text-decoration: none;
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif
+
+   
+}
+.nextbtn{
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid;
+    margin: 4px auto;
+    font-size: 15px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    font-weight: bold;
+    background-color: lightblue;
+        
+}
+.lastpargraph {
+ display: inline-block;
+ padding-left:10px ;
+}
+.signuplink{
+    color: blue;
+}
+
+
+
+
+.second-half{
+    background-image: url(./mo.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+.secondhalftext {
+    text-align: left;
+     padding-left: 40px;
+     padding-top: 50px;
+}
+p {
+    line-height: 25px;
+}
+.exploretutoriallink{
+    color: white;
+    text-decoration: underline;
+    line-height: 25px;
+    font-weight: bold;
+}
